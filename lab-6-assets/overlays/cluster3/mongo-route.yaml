@@ -4,4 +4,4 @@ metadata:
   name: mongo
   namespace: mongo
 spec:
-  host: mongocluster3route
+  host: mongo-cluster3.apps.cluster-ec17.ec17.sandbox28.opentlc.com
